@@ -1,5 +1,6 @@
-application:
-name: hareram
+spring:
+  application:
+      name: hareram
 eureka:
   instance:
     prefer-ip-address: true
